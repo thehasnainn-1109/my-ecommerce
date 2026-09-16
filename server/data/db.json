@@ -1,0 +1,80 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "description": "Over-ear wireless headphones with noise cancellation, 30-hour battery life, and deep bass sound.",
+      "price": 59.99,
+      "category": "Electronics",
+      "image": "/images/headphones.png",
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Watch",
+      "description": "Track your heart rate, steps, sleep and workouts with this waterproof smart watch.",
+      "price": 89.99,
+      "category": "Electronics",
+      "image": "/images/smartwatch.png",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "name": "Men's Casual Sneakers",
+      "description": "Lightweight, breathable sneakers perfect for everyday wear.",
+      "price": 39.5,
+      "category": "Fashion",
+      "image": "/images/sneakers.png",
+      "stock": 40
+    },
+    {
+      "id": 4,
+      "name": "Ceramic Coffee Mug Set",
+      "description": "Set of 4 handcrafted ceramic mugs, microwave and dishwasher safe.",
+      "price": 24.0,
+      "category": "Home",
+      "image": "/images/mugs.png",
+      "stock": 60
+    },
+    {
+      "id": 5,
+      "name": "Backpack for Laptop",
+      "description": "Durable, water-resistant backpack with padded compartment for laptops up to 15.6 inches.",
+      "price": 45.0,
+      "category": "Accessories",
+      "image": "/images/backpack.png",
+      "stock": 30
+    },
+    {
+      "id": 6,
+      "name": "Stainless Steel Water Bottle",
+      "description": "Insulated bottle that keeps drinks cold for 24 hours or hot for 12 hours.",
+      "price": 19.99,
+      "category": "Accessories",
+      "image": "/images/bottle.png",
+      "stock": 80
+    },
+    {
+      "id": 7,
+      "name": "Yoga Mat",
+      "description": "Non-slip, eco-friendly yoga mat with carrying strap.",
+      "price": 29.99,
+      "category": "Sports",
+      "image": "/images/yogamat.png",
+      "stock": 35
+    },
+    {
+      "id": 8,
+      "name": "Desk Lamp with USB Port",
+      "description": "Adjustable LED desk lamp with 3 brightness levels and built-in USB charging port.",
+      "price": 22.5,
+      "category": "Home",
+      "image": "/images/lamp.png",
+      "stock": 20
+    }
+  ],
+  "orders": [],
+  "nextUserId": 1,
+  "nextOrderId": 1
+}
